@@ -8,7 +8,7 @@ Também sou **curioso em programação** e gosto de entender como as tecnologias
 
 Acredito que aprender tecnologia vai além de simplesmente utilizar ferramentas: é preciso **explorar, testar, errar, corrigir e construir**.
 
-
+---
 
 ## 🔎 Sobre mim
 
@@ -25,7 +25,7 @@ Acredito que aprender tecnologia vai além de simplesmente utilizar ferramentas:
 * 🧪 Gosto de criar **laboratórios e ambientes de testes**
 * 📚 Sempre aprendendo e experimentando novas tecnologias
 
-
+---
 
 ## 🛠️ Tecnologias
 
@@ -49,7 +49,7 @@ Acredito que aprender tecnologia vai além de simplesmente utilizar ferramentas:
 
 `HTML` `CSS` `JavaScript` `Python` `Git` `GitHub`
 
-
+---
 
 ## 🧪 Laboratório
 
@@ -67,7 +67,7 @@ Aqui compartilho projetos, estudos e experimentos envolvendo:
 * 🔹 Programação e desenvolvimento web
 * 🔹 Experimentos com novas tecnologias
 
-
+---
 
 ## 📚 Atualmente estudando
 
@@ -77,7 +77,7 @@ Buscando evoluir constantemente em:
 
 `Linux` • `Windows Server` • `Redes` • `Virtualização` • `Cloud` • `Segurança` • `Automação` • `Programação`
 
-
+---
 
 ## 💡 Minha filosofia
 
@@ -87,6 +87,6 @@ Buscando evoluir constantemente em:
 🖥️ **Apaixonado por infraestrutura.**
 🚀 **Sempre explorando novas tecnologias.**
 
-
+---
 
 ### 🚀 Keep learning. Keep building. Keep exploring.
